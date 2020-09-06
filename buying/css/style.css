@@ -1,0 +1,68 @@
+.jumbotron {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+  margin-bottom: 0;
+  padding: 6%;
+  background: #000000;
+background: -webkit-linear-gradient(to bottom, #434343, #000000);
+background: linear-gradient(to bottom, #434343, #000000);
+}
+@media (min-width: 768px) {
+  .jumbotron {
+    padding-top: 6rem;
+    padding-bottom: 4rem;
+  }
+}
+
+.jumbotron p:last-child {
+  margin-bottom: 0;
+  padding-top: 2%;
+}
+
+.jumbotron h1 {
+  font-weight: 600;
+  color: white;
+  padding-top: 5%;
+
+}
+
+.jumbotron .container {
+  max-width: 40rem;
+}
+
+footer {
+  padding-top: 3rem;
+  padding-bottom: 3rem;
+}
+
+footer p {
+  margin-bottom: .25rem;
+}
+
+/*Nav-bar*/
+
+.navbar-brand{
+  width: 12%;
+}
+
+#register{
+  text-decoration: underline;
+}
+
+/*Card-Section*/
+
+#card-section{
+  background-color: #f6f5f5;
+}
+
+/*Footer*/
+
+.footer{
+  background-color:   background: #000000;
+  background: -webkit-linear-gradient(to bottom, #434343, #000000);
+  background: linear-gradient(to bottom, #434343, #000000);
+}
+
+.footer p{
+  color: #fff;
+}

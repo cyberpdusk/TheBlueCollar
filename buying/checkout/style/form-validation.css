@@ -1,0 +1,17 @@
+body{
+  background: #000000;
+    background: -webkit-linear-gradient(to bottom, #434343, #000000);
+    background: linear-gradient(to bottom, #434343, #000000);
+}
+
+.container {
+  max-width: 960px;
+
+}
+h1{
+  font-weight: lighter;
+}
+
+.lh-condensed { line-height: 1.25;
+
+}

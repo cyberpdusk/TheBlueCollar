@@ -1,0 +1,143 @@
+body{
+  font-family: "Montserrat";
+  text-align: center;
+
+}
+
+h1, h2, h3, h4, h5, h6 {
+  font-family: "Montserrat-Bold";
+}
+
+
+.container-fluid{
+  padding: 6%;
+}
+
+/*Logo*/
+
+.navbar-brand{
+  width: 12%;
+}
+
+/*Nav Bar*/
+
+#register{
+  text-decoration: underline;
+}
+
+/* Sections */
+
+.colored-section {
+  background: #000000;
+background: -webkit-linear-gradient(to bottom, #434343, #000000);
+background: linear-gradient(to bottom, #434343, #000000);
+
+  color: #fff;
+}
+
+/*Big heading*/
+
+.big-heading{
+  padding: 12%;
+}
+
+/*Image*/
+
+.title-image{
+  width: 70%;
+}
+
+/*dropdown*/
+.dropdown{
+  padding-right: 25%;
+  margin-right: : 10%;
+}
+
+.select-city{
+  padding-left: 80%;
+
+}
+
+/*Feature*/
+
+.gender{
+  width: 35%;
+}
+
+.my-cta-button{
+  background:    #1fceff;
+background:    linear-gradient(#1fceff, #073763);
+border-radius: 1000px;
+width:         150px;
+height:        50px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 26px/50px "Roboto", sans-serif;
+text-align:    center;
+}
+
+.my-cta-button2{
+  background:    #f40a7b;
+background:    linear-gradient(#f40a7b, #9b0950);
+border-radius: 1000px;
+width:         150px;
+height:        50px;
+color:         #ffffff;
+display:       inline-block;
+font:          normal bold 26px/50px "Roboto", sans-serif;
+text-align:    center;
+}
+
+.gendertext{
+  padding-top: 1%;
+
+}
+
+/*Testimonial*/
+
+.testimonial-image{
+  border-radius: 2%;
+}
+
+/*Review*/
+
+.review-image{
+  width: 85%;
+}
+
+.review-image:hover{
+  -ms-transform: scale(1.2);
+  -webkit-transform: scale(1.2);
+  transform: scale(1.2)
+}
+
+.section-heading{
+  width: 20%;
+  padding-top: 1%;
+  padding-bottom: 1%;
+}
+
+#Reviews{
+  background-color:#f6f5f5;
+}
+
+#Gender{
+  background-color:#f6f5f5;
+}
+
+/*Footer*/
+
+.footer{
+  width: 100%;
+}
+
+/*#footer{
+  background: #000000;
+background: -webkit-linear-gradient(to bottom, #434343, #000000);
+background: linear-gradient(to bottom, #434343, #000000);
+}
+
+.term{
+  color: white;
+*/
+}
